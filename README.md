@@ -1,1 +1,2 @@
-This an updated README file.
+
+I am a software engineering student.
